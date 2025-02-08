@@ -153,9 +153,6 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/alimonzer236/PyPhisher/main/pyphisher.gif)
-
-
 ## Whats new in 1.8?
  - *Mailing*
    - Now you can send credentials to any email. You just need a gmail and app password to use this feature. Edit the data in `files/email.json`
