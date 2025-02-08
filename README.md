@@ -43,7 +43,7 @@
  - ```cd PyPhisher```
 
 ##### Install all modules
- - ```pip3 install -r files/requirements.txt```
+ - ```pip3 install -r requirements.txt```
 
 ##### Run the tool
  - ```python3 pyphisher.py```
@@ -153,7 +153,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/alimonzer236/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/alimonzer236/PyPhisher/main/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
