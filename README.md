@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/alimonzer236/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/alimonzer236/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/alimonzer236/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/alimonzer236/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/alimonzer236/pyphisher?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/stars/alimonzer236/phishing_by_ali?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/alimonzer236/phishing_by_ali?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/alimonzer236/phishing_by_ali?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/alimonzer236/phishing_by_ali?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alimonzer236/phishing_by_ali?style=for-the-badge&color=blue">
   <img src="https://hits.dwyl.com/alimonzer236/PyPhisher.svg" width="140" height="28">
 <br>
 <br>
@@ -50,7 +50,7 @@
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/alimonzer236/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/alimonzer236/phishing_by_ali/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -61,8 +61,8 @@ wget https://raw.githubusercontent.com/alimonzer236/PyPhisher/main/pyphisher.py 
 
 ### Docker
 
- - `sudo docker pull alimonzer236/pyphisher`
- - `sudo docker run --rm -it alimonzer236/pyphisher`
+ - `sudo docker pull alimonzer236/phishing_by_ali`
+ - `sudo docker run --rm -it alimonzer236/phishing_by_ali`
 
 ### Support
 
