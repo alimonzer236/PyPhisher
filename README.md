@@ -37,10 +37,10 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/alimonzer236/PyPhisher```
+ - ```git clone https://github.com/alimonzer236/phishing_by_ali```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd phishing_by_ali```
 
 ##### Install all modules
  - ```pip3 install -r requirements.txt```
